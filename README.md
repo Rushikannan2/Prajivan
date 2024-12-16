@@ -1,4 +1,5 @@
-Author: Rushi KannanI am passionate about technology and wildlife conservation. This project uses AI for classifying animal distress calls and identifying animal species from audio and image data.
+Author: Rushi Kannan
+I am passionate about technology and wildlife conservation. This project uses AI for classifying animal distress calls and identifying animal species from audio and image data.
 
 Data Sources:
 🎵 Audio Files - 10 Animal Types
